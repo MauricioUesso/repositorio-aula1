@@ -1,0 +1,38 @@
+
+.header {
+    width: 500px;
+    height: 500px;
+    background-color: #f6e715;
+
+    }
+    
+    .container {
+        width: 250px;
+        height: 250px;
+        background-color: #ca07fb;
+
+    }
+
+    p {
+        color:  white;
+        background-color: #2ceed4;
+        font-size: 30px;
+        font-family: fantasy;
+        font-style: bold;
+
+    }
+
+    .box {
+        width: 50%;
+        height: 50vh;
+        background-color: rgb(225, 8, 8);
+
+    }
+
+    .boxfilha{
+        width: 75vw;
+        height: 25vh;
+        background-color: rgb(140, 0, 255);
+        
+    }
+
